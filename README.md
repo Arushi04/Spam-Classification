@@ -42,7 +42,7 @@
 ### Results
 
 <img src="https://github.com/Arushi04/Spam-Classification/blob/master/images/models.png" width="550" height="350">
-<img src="https://github.com/Arushi04/Spam-Classification/blob/master/images/sparse_models.png" width="600" height="150">
+<img src="https://github.com/Arushi04/Spam-Classification/blob/master/images/sparse_models.png" width="550" height="120">
 
 
 Top 10 words after running Logistic Regression on unigrams sparse matrix:
