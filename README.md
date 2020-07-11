@@ -41,32 +41,22 @@
   
 ### Results
 
-<img src="https://github.com/Arushi04/Spam-Classification/blob/master/images/models.png" width="450" height="300">
-<img src="https://github.com/Arushi04/Spam-Classification/blob/master/images/sparse_models.png" width="450" height="300">
+<img src="https://github.com/Arushi04/Spam-Classification/blob/master/images/models.png" width="550" height="350">
+<img src="https://github.com/Arushi04/Spam-Classification/blob/master/images/sparse_models.png" width="300" height="400">
 
 
 Top 10 words after running Logistic Regression on unigrams sparse matrix:
 
-('freebsd', 1.1172201336086656)
-          
-('click', 1.1067116575308757)
-
-('antivir', 1.079915881679438)
-
-('penis', 1.0705047080248018)
-
-('opt', 1.0648006849173453)
-
-('girl', 1.0265354745168107)
-
-('adf', 1.0224262305744003)
-
-('website', 0.9591053071640367)
-
-('products', 0.8749953047612927)
-
-('remove', 0.8748610351597089)
-
+('freebsd', 1.1172201336086656).   
+('click', 1.1067116575308757).    
+('antivir', 1.079915881679438).    
+('penis', 1.0705047080248018).     
+('opt', 1.0648006849173453).    
+('girl', 1.0265354745168107).    
+('adf', 1.0224262305744003).    
+('website', 0.9591053071640367).     
+('products', 0.8749953047612927).    
+('remove', 0.8748610351597089).     
 
        
 
